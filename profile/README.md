@@ -13,7 +13,7 @@
 <p>
   <a href="https://www.centurybuildersnd.com/">Visit our website</a> ·
   <a href="https://www.centurybuildersnd.com/contact">Start a project</a> ·
-  <a href="https://www.centurybuildersnd.com/careers">Explore careers</a>
+  <a href="https://www.centurybuildersnd.com/employment">Explore careers</a>
 </p>
 
 </div>
